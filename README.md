@@ -1,4 +1,4 @@
-<h1 align="center">🦄 avidan-H 🐍</h1>
+<h1 align="center">📚 🐉</h1>
 
 <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=avidan-H&show_icons=true&theme=dracula&include_all_commits=true" />
